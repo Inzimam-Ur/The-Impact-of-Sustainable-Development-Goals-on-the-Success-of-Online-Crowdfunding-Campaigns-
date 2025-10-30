@@ -91,10 +91,7 @@ If referencing this work, please cite as:
 ---
 
 ## 🔒 Data Availability  
-The original dataset is avaiable on site [website](https://webrobots.io/kickstarter-datasets) | / **not publicly available** due to confidentiality.  
-However, processed variables and results summaries are included in the repository for transparency.  
-
-Researchers may contact the author for data-sharing inquiries.  
+The original dataset is avaiable on site [website](https://webrobots.io/kickstarter-datasets).The Clean dataset for 5 years along with the Identified SDGs dataset is  **not publicly available** due to confidentiality but can be made avaiable upon individual request. Researchers may contact the author for data-sharing inquiries.  
 
 ---
 
