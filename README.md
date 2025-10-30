@@ -82,26 +82,29 @@ It investigates how **SDG-aligned campaigns** perform in terms of funding succes
 
 ---
 
-## 📕 Citation  
-If referencing this work, please cite as:  
+## 📚 Literature Review
 
-> Rehman, I. U. (2025). *The Influence of Crowdfunding Platforms, as a FinTech Tool, on the Achievement of Sustainable Development Goals (SDGs).*  
-> Master’s Thesis, Ibn Haldun University, Turkey.  
+The literature review for this projects includes key academic papers and studies related to crowdfunding, financial technology (FinTech), and Sustainable Development Goals (SDGs).
+All referenced research papers and supporting materials used in this study can be found in the following folder:
+
+👉  [Literature Review Folder](https://drive.google.com/drive/folders/1P1wjE4TA6ZPSg-4fTFmFxGDthVcJIjli?usp=sharing)
 
 ---
 
 ## 🔒 Data Availability  
-The original dataset is avaiable on site [website](https://webrobots.io/kickstarter-datasets).The Clean dataset for 5 years along with the Identified SDGs dataset is  **not publicly available** due to confidentiality but can be made avaiable upon individual request. Researchers may contact the author for data-sharing inquiries.  
+The original dataset is avaiable on site  [website](https://webrobots.io/kickstarter-datasets).The Clean dataset for 5 years along with the Identified SDGs dataset is  **not publicly available** due to confidentiality but can be made avaiable upon individual request.
+
+Researchers may contact the author for data-sharing inquiries.  
 
 ---
 
 ## 📄 Final Thesis Document  
- You can access to the final master paper here[Full Paper](https://drive.google.com/file/d/1y_6YWloXtVQPNe47VXvJR1AHhUXCPMz2/view?usp=sharing) |
+ You can access to the final master paper here  [Full Paper](https://drive.google.com/file/d/1y_6YWloXtVQPNe47VXvJR1AHhUXCPMz2/view?usp=sharing)
 
 ---
 
 ## 🎥 Thesis Presentation  
-The final thesis presentation slides are here which has been used for on the defense day[Slides](https://docs.google.com/presentation/d/1Ei_O9vQudrWSqzTUPHwvE4NAczUHAGGA/edit?usp=sharing&ouid=109295301478660362224&rtpof=true&sd=true) |
+The final thesis presentation slides are here which has been used for on the defense day [Slides](https://docs.google.com/presentation/d/1Ei_O9vQudrWSqzTUPHwvE4NAczUHAGGA/edit?usp=sharing&ouid=109295301478660362224&rtpof=true&sd=true)
 
 ---
 
