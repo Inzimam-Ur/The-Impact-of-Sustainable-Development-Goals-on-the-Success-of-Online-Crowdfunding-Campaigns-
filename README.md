@@ -1,8 +1,8 @@
 # 🎓 The Impact of Sustainable Development Goals the Success of Online-Crowdfunding-Campaigns-
 **University:** Ibn Haldun University (IHU), Turkey  
-**Program:** M.A. Financial Economics  
+**Program:** M.A. Financial Economics 
+**Researcher:** [Inzimam Ur Rehman](https://www.linkedin.com/in/inzimam-ur-rehman)
 **Supervisor:** [Dr. Nihat Gümüş](https://www.linkedin.com/in/nihatgumus)  
-**Researcher:** [Inzimam Ur Rehman](https://www.linkedin.com/in/inzimam-ur-rehman)  
 **Academic Year:** 2024–2025  
 
 ---
@@ -105,11 +105,9 @@ All chapters, results, and analysis summaries will be added here after final sub
 
 ---
 
-## 🎥 Thesis Presentation & Defense Recording  
+## 🎥 Thesis Presentation  
 The final thesis presentation and defense session recording will be made available soon after evaluation.  
-Stay tuned for updates.  
-
-📺 **Presentation Link (Coming Soon):** *Thesis Defense – Ibn Haldun University, 2025*  
+Stay tuned for updates. [Slides](https://docs.google.com/presentation/d/1Ei_O9vQudrWSqzTUPHwvE4NAczUHAGGA/edit?usp=sharing&ouid=109295301478660362224&rtpof=true&sd=true) |
 
 ---
 
@@ -118,7 +116,6 @@ Stay tuned for updates.
 | Name | Role | Contact |
 |------|------|----------|
 | **Inzimam Ur Rehman** | Researcher | [LinkedIn](https://www.linkedin.com/in/inzimam-ur-rehman) |
-| **Dr. Nihat Gümüş** | Supervisor | [LinkedIn](https://www.linkedin.com/in/nihatgumus) |
 | **University** | Ibn Haldun University | [https://www.ihu.edu.tr](https://www.ihu.edu.tr) |
 
 ---
