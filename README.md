@@ -99,15 +99,12 @@ Researchers may contact the author for data-sharing inquiries.
 ---
 
 ## 📄 Final Thesis Document  
-All chapters, results, and analysis summaries will be added here after final submission and defense approval.  
-
-📘 **Download (Coming Soon):** *Master’s Thesis – Crowdfunding Platforms & SDGs*  
+ You can access to the final master paper here[Full Paper](https://docs.google.com/presentation/d/1Ei_O9vQudrWSqzTUPHwvE4NAczUHAGGA/edit?usp=sharing&ouid=109295301478660362224&rtpof=true&sd=true) |) |
 
 ---
 
 ## 🎥 Thesis Presentation  
-The final thesis presentation and defense session recording will be made available soon after evaluation.  
-Stay tuned for updates. [Slides](https://docs.google.com/presentation/d/1Ei_O9vQudrWSqzTUPHwvE4NAczUHAGGA/edit?usp=sharing&ouid=109295301478660362224&rtpof=true&sd=true) |
+The final thesis presentation slides are here which has been used for on the defense day[Slides](https://docs.google.com/presentation/d/1Ei_O9vQudrWSqzTUPHwvE4NAczUHAGGA/edit?usp=sharing&ouid=109295301478660362224&rtpof=true&sd=true) |
 
 ---
 
