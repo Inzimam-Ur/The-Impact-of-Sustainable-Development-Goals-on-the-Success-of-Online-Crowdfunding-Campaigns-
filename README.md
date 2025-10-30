@@ -1,4 +1,4 @@
-# 🎓 Master’s Thesis — Crowdfunding Platforms, FinTech & Sustainable Development Goals (SDGs)  
+# 🎓 The Impact of Sustainable Development Goals the Success of Online-Crowdfunding-Campaigns-
 **University:** Ibn Haldun University (IHU), Turkey  
 **Program:** M.A. Financial Economics  
 **Supervisor:** [Dr. Nihat Gümüş](https://www.linkedin.com/in/nihatgumus)  
