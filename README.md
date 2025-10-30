@@ -91,7 +91,7 @@ If referencing this work, please cite as:
 ---
 
 ## 🔒 Data Availability  
-The original dataset is **not publicly available** due to confidentiality.  
+The original dataset is avaiable on site [website](https://webrobots.io/kickstarter-datasets) | / **not publicly available** due to confidentiality.  
 However, processed variables and results summaries are included in the repository for transparency.  
 
 Researchers may contact the author for data-sharing inquiries.  
@@ -99,7 +99,7 @@ Researchers may contact the author for data-sharing inquiries.
 ---
 
 ## 📄 Final Thesis Document  
- You can access to the final master paper here[Full Paper](https://docs.google.com/presentation/d/1Ei_O9vQudrWSqzTUPHwvE4NAczUHAGGA/edit?usp=sharing&ouid=109295301478660362224&rtpof=true&sd=true) |) |
+ You can access to the final master paper here[Full Paper](https://drive.google.com/file/d/1y_6YWloXtVQPNe47VXvJR1AHhUXCPMz2/view?usp=sharing) |
 
 ---
 
