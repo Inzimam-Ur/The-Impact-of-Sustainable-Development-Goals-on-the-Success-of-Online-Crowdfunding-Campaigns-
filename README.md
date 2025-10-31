@@ -84,9 +84,20 @@ The final thesis presentation slides are here which has been also used for on th
 
 ---
 
+## 🎤 Conference Presentation
+
+This folder contains materials related to the conference presentation of the paper.
+
+1. The paper was successfully presented at the TBEC 2025 Conference, where it received positive feedback from participants and researchers. The certificate of presentation/ presentatiin timing [certificate](https://drive.google.com/file/d/1iTbUbyg9zAjYb5_FovJWGUfuO8qK8DQY/view?usp=sharing)
+
+
+2. The paper is presented by Inzimam Ur Rehman in the Gradcon 2025 at Ibn Haldun University.The certificate of presentation/ presentatiin timing [certificate](https://www.linkedin.com/in/inzimam-ur-rehman/details/certifications/1749643983592/single-media-viewer/?profileId=ACoAAC7uW_kB_OfQEiCXZ3aqYwzXIYxyEuKcrfU)
+
+---
 ## 🔒 📊 Data Analysis Results
 This folder contains all the graphs, tables, regression outputs, and other analytical results generated during the study.To view the analysis outcomes, including visualizations, statistical summaries, and regression models, please explore the files in this folder.[Folders](https://drive.google.com/drive/folders/1C9-N97piGszvWEQxatPURUPoDGBNLbJQ?usp=sharing)
 
+---
 ## 🧭 Contact  
 
 | Name | Role | Contact |
