@@ -17,7 +17,8 @@ It investigates how **SDG-aligned campaigns** perform in terms of funding succes
 ---
 
 ## 🧠 Research Objectives  
-1.Impact of SDGs on the success of online crowdfunding Platform campaigns. 
+1.Impact of SDGs on the success of online crowdfunding Platform campaigns.
+
 2.Which individual sustainable development goal is more likely to be successful 
 in a crowdfunding platform.  
 
@@ -46,7 +47,7 @@ in a crowdfunding platform.
 ---
 
 ## 📈 Main Findings  
-- Online crowdfunding platforms are emerging as a significant alternative potential finance method, which are playing a critical role in mobilizing resources to achieve 
+Online crowdfunding platforms are emerging as a significant alternative potential finance method, which are playing a critical role in mobilizing resources to achieve 
 the United Nations Sustainable Development Goals (SDGs). This Study investigates the impact of SDG alignment on campaign success and, in 
 addition, tries to find which individual sustainable development goals are more successful on a reward-based crowdfunding platform. By utilizing Natural Language Processing (NLP) techniques and Ordinary Least Squares (OLS) regression models on Kickstarter platform dataset of 138393 campaign launch between 2020 to 20204 to assess the relationship SDG alignment and campaign success, measured by the natural logarithms of the total pledged amount and the number of backers, while controlling for campaign duration, sentiment, project category, and geographical region.  The findings show that SDG alignment has a statistically significant positive relationship with campaign success. Specifically, SDGs related to environmental such as SDG6 (Clean Water), SDG13 (Climate Action), and SDG14 (Life Below Water) 
 significantly increase funding success. Conversely, campaigns focusing on basic needs such as SDG1 (No Poverty), SDG2 (Zero Hunger), SDG3 (Good Health), and SDG4(Quality Education) tended to attract less funding and fewer backers on the Kickstarter platform.
