@@ -12,7 +12,7 @@ This repository hosts the **final master’s thesis project** conducted as part 
 
 The research explores how **crowdfunding platforms**, as a form of **Financial Technology (FinTech)**, contribute to the achievement of the **United Nations Sustainable Development Goals (SDGs)**.  
 
-It investigates how **SDG-aligned campaigns** perform in terms of funding success, backer engagement, and sustainability impact using **Kickstarter dataset analysis**.
+It investigates how **SDG-aligned campaigns** perform in terms of funding success, and sustainability impact using **Kickstarter dataset**.
 
 ---
 
