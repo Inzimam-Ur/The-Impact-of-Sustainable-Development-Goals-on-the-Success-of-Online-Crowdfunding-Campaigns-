@@ -17,10 +17,9 @@ It investigates how **SDG-aligned campaigns** perform in terms of funding succes
 ---
 
 ## 🧠 Research Objectives  
-1. Examine how FinTech-based crowdfunding supports **sustainable development**.  
-2. Evaluate the relationship between **SDG alignment** and **campaign success**.  
-3. Identify which project characteristics (goal, duration, media, creator experience) influence success.  
-4. Contribute to the academic dialogue between **financial innovation** and **sustainability goals**.  
+1.Impact of SDGs on the success of online crowdfunding Platform campaigns. 
+2.Which individual sustainable development goal is more likely to be successful 
+in a crowdfunding platform.  
 
 ---
 
@@ -83,6 +82,9 @@ Researchers may contact the author for data-sharing inquiries.
 The final thesis presentation slides are here which has been also used for on the defense day [Slides](https://docs.google.com/presentation/d/1Ei_O9vQudrWSqzTUPHwvE4NAczUHAGGA/edit?usp=sharing&ouid=109295301478660362224&rtpof=true&sd=true)
 
 ---
+
+## 🔒 📊 Data Analysis Results
+This folder contains all the graphs, tables, regression outputs, and other analytical results generated during the study.To view the analysis outcomes, including visualizations, statistical summaries, and regression models, please explore the files in this folder.[Folders](https://drive.google.com/drive/folders/1C9-N97piGszvWEQxatPURUPoDGBNLbJQ?usp=sharing)
 
 ## 🧭 Contact  
 
