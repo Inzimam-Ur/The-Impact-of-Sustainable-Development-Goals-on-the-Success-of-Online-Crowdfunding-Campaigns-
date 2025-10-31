@@ -28,14 +28,14 @@ It investigates how **SDG-aligned campaigns** perform in terms of funding succes
 
 | Component | Description |
 |------------|-------------|
-| **Dataset** | Kickstarter campaigns (2010–2024) |
+| **Dataset** | Kickstarter campaigns (2020–2024) |
 | **Total Campaigns** | 25,000+ unique projects |
 | **Tools Used** | R, Python, and Stata |
 | **Approach** | Quantitative empirical analysis |
-| **Models** | OLS, Logistic Regression, Multinomial Logit |
-| **Key Variable** | SDG Alignment (binary & word-based indicators) |
-| **Dependent Variables** | Campaign Success, Funding Ratio, State |
-| **Controls** | Goal, Duration, Category, Location, Media, Experience |
+| **Models** | OLS, NLP, SDGdectator and Text2SDG packages |
+| **KeyIndepentdent Variables** | SDG Alignment both overall and individuals SDGs) |
+| **Dependent Variables** | Pledged amount, Backers |
+| **Controls** |,Comapaign Duration, Category, Region, Positve sentiments, Negative sentiments |
 
 ---
 
