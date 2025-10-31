@@ -29,58 +29,34 @@ It investigates how **SDG-aligned campaigns** perform in terms of funding succes
 | Component | Description |
 |------------|-------------|
 | **Dataset** | Kickstarter campaigns (2020–2024) |
-| **Total Campaigns** | 25,000+ unique projects |
+| **Total Campaigns** | 138393 unique projects |
 | **Tools Used** | R, Python, and Stata |
 | **Approach** | Quantitative empirical analysis |
-| **Models** | OLS, NLP, SDGdectator and Text2SDG packages |
-| **KeyIndepentdent Variables** | SDG Alignment both overall and individuals SDGs) |
-| **Dependent Variables** | Pledged amount, Backers |
-| **Controls** |,Comapaign Duration, Category, Region, Positve sentiments, Negative sentiments |
+| **Models & Packages** | OLS, NLP, SDGdectator and Text2SDG packages |
 
----
 
-## 📂 Repository Structure  
-
-| Folder | Description |
-|---------|-------------|
-| `/scripts/` | R, Python, and Stata scripts for analysis |
-| `/analysis/` | Regression outputs, model results, tables |
-| `/docs/` | Thesis draft, references, and figures |
-| `/visuals/` | Graphs, charts, and descriptive stats |
-| `/output/` | Processed results and summaries |
-
-> ⚠️ **Note:** The dataset used in this study is confidential and **will not be shared publicly**.  
-> Access may be granted upon formal academic request.
-
----
 
 ## 🧮 Key Variables  
 
 | Type | Variable | Description |
 |------|-----------|-------------|
-| **Dependent** | `ln_pledged`, `state_binary` | Funding success indicators |
-| **Independent** | `sdg_binary`, `totalsdgswordcount` | SDG alignment measures |
-| **Control** | `goal`, `duration`, `previous_campaigns`, `has_video`, `category`, `location` | Campaign characteristics |
+| **Dependent** | `Pledged amount, Backers |
+| **Independent** |  SDG alignment both overall and individuals SDGs) |
+| **Control** | Comapaign Duration (in days), Category, Region, Positve sentiments, Negative sentiments |
 
 ---
 
 ## 📈 Main Findings  
-- Campaigns with **higher SDG alignment** tend to achieve **better funding performance**.  
-- **Environmental (SDG 13)** and **Gender Equality (SDG 5)** goals are most represented.  
-- **Media-rich campaigns** (with videos) show significantly higher success probabilities.  
-- Crowdfunding is emerging as a **sustainable financing mechanism** under FinTech innovation.  
+- Online crowdfunding platforms are emerging as a significant alternative potential finance method, which are playing a critical role in mobilizing resources to achieve 
+the United Nations Sustainable Development Goals (SDGs). This Study investigates the impact of SDG alignment on campaign success and, in 
+addition, tries to find which individual sustainable development goals are more successful on a reward-based crowdfunding platform. By utilizing Natural Language Processing (NLP) techniques and Ordinary Least Squares (OLS) regression models on Kickstarter platform dataset of 138393 campaign launch between 2020 to 20204 to assess the relationship SDG alignment and campaign success, measured by the natural logarithms of the total pledged amount and the number of backers, while controlling for campaign duration, sentiment, project category, and geographical region.  The findings show that SDG alignment has a statistically significant positive relationship with campaign success. Specifically, SDGs related to environmental such as SDG6 (Clean Water), SDG13 (Climate Action), and SDG14 (Life Below Water) 
+significantly increase funding success. Conversely, campaigns focusing on basic needs such as SDG1 (No Poverty), SDG2 (Zero Hunger), SDG3 (Good Health), and SDG4(Quality Education) tended to attract less funding and fewer backers on the Kickstarter platform.
 
----
-
-## 🧩 Tools & Packages  
-
-| Software | Key Libraries / Commands |
-|-----------|--------------------------|
-| **R** | `tidyverse`, `ggplot2`, `glm`, `bibliometrix` |
-| **Python** | `pandas`, `numpy`, `matplotlib`, `nltk`, `scikit-learn` |
-| **Stata** | `logit`, `ologit`, `margins`, `regress` |
-
----
+Sentiment in descriptions also contributes positively to the campaign's success, and campaign durations have a negative impact. Additionally, there are significant regional 
+and category differences, with campaigns in the Asia-Pacific area and categories like Comics, Design, and Games performing better than those in North America and the 
+Art category. 
+These results offer practical implications for campaign creators, highlighting the strategic benefit of incorporating specific SDG themes, particularly environmental and 
+justice-oriented ones, coupled with positive messaging and concise campaign timelines, while tailoring approaches to regional and categorical contexts to maximize crowdfunding success on reward-based platforms.  
 
 ## 📚 Literature Review
 
@@ -104,7 +80,7 @@ Researchers may contact the author for data-sharing inquiries.
 ---
 
 ## 🎥 Thesis Presentation  
-The final thesis presentation slides are here which has been used for on the defense day [Slides](https://docs.google.com/presentation/d/1Ei_O9vQudrWSqzTUPHwvE4NAczUHAGGA/edit?usp=sharing&ouid=109295301478660362224&rtpof=true&sd=true)
+The final thesis presentation slides are here which has been also used for on the defense day [Slides](https://docs.google.com/presentation/d/1Ei_O9vQudrWSqzTUPHwvE4NAczUHAGGA/edit?usp=sharing&ouid=109295301478660362224&rtpof=true&sd=true)
 
 ---
 
@@ -114,7 +90,7 @@ The final thesis presentation slides are here which has been used for on the def
 |------|------|----------|
 | **Inzimam Ur Rehman** | Researcher | [LinkedIn](https://www.linkedin.com/in/inzimam-ur-rehman) |
 | **University** | Ibn Haldun University | [https://www.ihu.edu.tr](https://www.ihu.edu.tr) |
-
+| **Gmail** | [ inzimam.rahman@stu.ihu.edu.tr |
 ---
 
 📍 *This repository serves as the official record of my master’s thesis journey at Ibn Haldun University, integrating research, data analysis, and academic writing focused on sustainable FinTech solutions.*
